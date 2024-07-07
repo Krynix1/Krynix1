@@ -15,5 +15,5 @@ class Krynix:
 </p>
 <h1 align="center">
   Contribution Snake
-  <img src="https://github.com/KrynixOfficial/Krynix1/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Krynix1/Krynix1/blob/output/github-contribution-grid-snake.svg">
 </h1>
