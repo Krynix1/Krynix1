@@ -13,7 +13,3 @@ class Krynix:
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/880840860210720848.png" width="503.62500" height="102"/>
 </p>
-<h1 align="center">
-  Contribution Snake
-  <img src="https://github.com/Krynix1/Krynix1/blob/output/github-contribution-grid-snake.svg">
-</h1>
