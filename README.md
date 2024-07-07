@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**Krynix1/Krynix1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+class Krynix:
+    def __aboutMe__(self):
+        self.bio = ' A Dumb Guy Focusing On RATs '
+        self.age = 13
+      
+    def __socialMedia__(self):
+        self.discord = 'KrynixLegion'
+        self.spotify = '31bmg7yee5ggzjb2vlmqiibrqh6a'
+        self.tiktok = 'crops_666'
+```
+<br/>
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/880840860210720848.png" width="503.62500" height="102"/>
+</p>
+<h1 align="center">
+  Contribution Snake
+  <img src="https://github.com/KrynixOfficial/Krynix1/blob/output/github-contribution-grid-snake.svg">
+</h1>
