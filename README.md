@@ -6,6 +6,4 @@ class Krynix:
       
     def __socialMedia__(self):
         self.discord = 'KrynixLegion'
-        self.spotify = '31bmg7yee5ggzjb2vlmqiibrqh6a'
-        self.tiktok = 'crops_666'
 ```
